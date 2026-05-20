@@ -7,7 +7,7 @@ This project delivers a **100% Serverless Backend REST API** that completely dec
 
 ## Architecture Diagram
 
-<img width="582" height="72" alt="image" src="https://github.com/user-attachments/assets/4b1e245c-c703-4657-a314-6cb94ce618ad" />
+<img width="582" height="72" alt="image" src="https://github.com/user-attachments/assets/b33b0388-1fee-4602-bf15-afe484258a6c" />
 
 ## AWS Services & Tech Stack Used
 * **Amazon API Gateway (HTTP API):** Acts as the secure, high-throughput public-facing front door, handling routing and CORS validation.
