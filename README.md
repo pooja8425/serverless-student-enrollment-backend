@@ -7,7 +7,8 @@ This project delivers a **100% Serverless Backend REST API** that completely dec
 
 ## Architecture Diagram
 
-<img width="582" height="72" alt="image" src="https://github.com/user-attachments/assets/fc5b41cd-14d9-4ac6-bca5-45c02fe06728" />
+<img width="496" height="115" alt="image" src="https://github.com/user-attachments/assets/16fdeea3-17ff-469b-abe1-23aac4785f9c" />
+
 
 
 ## AWS Services & Tech Stack Used
